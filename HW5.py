@@ -1,4 +1,4 @@
-dfgdLauren Tahari
+Lauren Tahari
 
 import re
 
