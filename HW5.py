@@ -13,3 +13,6 @@ for line in f:
     total = total + number
     number = 0
 print (total)
+
+for x in line:
+    print (x)
