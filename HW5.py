@@ -16,3 +16,5 @@ print (total)
 
 for x in line:
     print (x)
+
+i love adding gitcommits
