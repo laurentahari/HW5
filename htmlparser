@@ -1,0 +1,4 @@
+url = input('Enter - ')
+html = urlopen(url, context=ctx).read()
+
+soup = BeautifulSoup(html, "html.parser")
